@@ -1,10 +1,10 @@
-package com.codevui.realworldapp;
+package com.codevui.usermanagement;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RealWorldAppApplicationTests {
+class UserManagementApplicationTests {
 
 	@Test
 	void contextLoads() {
